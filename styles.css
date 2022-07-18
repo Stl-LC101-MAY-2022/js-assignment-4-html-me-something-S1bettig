@@ -1,1 +1,32 @@
 /* Write your CSS here! */
+#mainHeading {
+    font-size: larger;
+    color: red;
+}
+
+body {
+    background-color: black;
+    font-style: italic;
+    font-size: 18pt;
+    padding-top: 2in;
+    margin-block: 8px;
+    display: block;
+}
+
+.funParagraph{
+    color:green
+}
+/* #testP .funparagraph */
+/* p1 {
+    color:springgreen;
+} */
+p {
+    color:green;
+}
+
+
+footer {
+    font-size: small;
+    font-style: normal;
+    color:crimson;
+}
