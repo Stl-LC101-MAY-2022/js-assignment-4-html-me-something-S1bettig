@@ -9,8 +9,8 @@ body {
     font-style: italic;
     font-size: 18pt;
     padding-top: 2in;
-    margin-block: 2;
-    margin-left: 8px;
+    margin-block: 8px;
+    display: block;
 }
 
 .funParagraph{
@@ -20,18 +20,10 @@ body {
 /* p1 {
     color:springgreen;
 } */
-p2 {
+p {
     color:springgreen;
 }
-p3 {
-    color:springgreen;
-}
-p4 {
-    color:springgreen;
-}
-p5 {
-    color:springgreen;
-}
+
 
 footer {
     font-size: small;
